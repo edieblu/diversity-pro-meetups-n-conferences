@@ -39,7 +39,7 @@ The women.code(be) team
 |[Fronteers Belgium](https://www.meetup.com/fronteersbe/) | monthly | Front-end development in its broadest sense | ✅ | All over Flanders | Dutch, English | Please be nice to each other! |
 |[Angular Belgium](https://www.meetup.com/Angular-Belgium/) | 2–3 / year | Everything related to Angular | ✅ | Ghent, Antwerp, Brussels, Mechelen, Leuven | English | [our code of conduct](https://ng-be.org/code-of-conduct)|
 |[SoCraTesBe](https://www.meetup.com/socratesbe/) | at least monthly | Software Crafting and Testing Open Spaces, technical sessions, and more. | ✅ | Ghent, Antwerp, Leuven | English | [our code of conduct](http://confcodeofconduct.com/)|
-|[GhentJs](https://www.meetup.com/GhentJS) | monthly | Framework agnostic JavaScript | 🚫 | Ghent | English | [our code of conduct](http://confcodeofconduct.com/)|
+|[GhentJS](https://www.meetup.com/GhentJS) | monthly | Framework agnostic JavaScript | 🚫 | Ghent | English | [our code of conduct](http://confcodeofconduct.com/)|
 
 
 ## Recurring Workshops
