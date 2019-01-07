@@ -40,6 +40,7 @@ The women.code(be) team
 |[Angular Belgium](https://www.meetup.com/Angular-Belgium/) | 2–3 / year | Everything related to Angular | ✅ | Ghent, Antwerp, Brussels, Mechelen, Leuven | English | [our code of conduct](https://ng-be.org/code-of-conduct)|
 |[SoCraTesBe](https://www.meetup.com/socratesbe/) | at least monthly | Software Crafting and Testing Open Spaces, technical sessions, and more. | ✅ | Ghent, Antwerp, Leuven | English | [our code of conduct](http://confcodeofconduct.com/)|
 |[GhentJS](https://www.meetup.com/GhentJS) | monthly | Framework agnostic JavaScript | 🚫 | Ghent | English | [our code of conduct](http://confcodeofconduct.com/)|
+|[Domain-Driven Design Belgium](https://www.meetup.com/dddbelgium/) | it depends | Domain Driven Design | ✅ | Ghent, Antwerp, Leuven, Brussels, ... | English | [our code of conduct](https://www.meetup.com/dddbelgium/pages/19030938/Code_of_Conduct/?name=Code_of_Conduct&id=19030938)|
 
 
 ## Recurring Workshops
